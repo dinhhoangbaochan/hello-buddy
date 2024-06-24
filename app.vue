@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+  <div class="hello-buddy-main">
+    <NuxtPage />
   </div>
 </template>
